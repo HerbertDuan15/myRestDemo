@@ -28,3 +28,8 @@ Learning go restful api and simple demo
              (default "GETALL")
       -name string
             input book name (default "Book One")
+            
+## TODO
+    close gracefully:use channel and http package
+    error process: ......
+    furthermore: High Concurrency &  high availability & lock
